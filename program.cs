@@ -5,4 +5,7 @@ class a{
     public string message(){
         return 'student class';
     }
+    public int getAge(){
+        return age;
+    }
 }
